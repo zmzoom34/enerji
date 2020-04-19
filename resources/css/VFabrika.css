@@ -1,0 +1,23 @@
+#vfabrika-container {
+    overflow: hidden;
+    background-color: #ffffff;
+    width: 762px;
+    height: 463px;
+    position: relative;
+}
+
+.vfabrika-layer {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+}
+
+.vfabrika-layer-default {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 0px;
+    height: 0px;
+}
